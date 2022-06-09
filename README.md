@@ -1,1 +1,4 @@
-# ms-eureka
+
+
+# Eureka Server
+Discovery server
