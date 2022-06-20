@@ -73,7 +73,7 @@
                 <version>0.40.1</version>
                 <configuration>
                     <verbose>true</verbose>
-
+                    <registry>docker.pkg.github.com</registry>
                     <images>
                         <image>
                             <name>${docker.image.prefix}/${docker.image.name}</name>
